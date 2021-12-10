@@ -8,8 +8,8 @@
 <img src="images/celebrity_galaxy.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Graffiti](/pdf/sample_presentation.pdf)
+<img src="images/graffiti.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
