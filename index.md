@@ -5,11 +5,11 @@
 ### My Creative Works 
 
 [Ripped Effect](/sample_page)
-<img src="images/celebrity_galaxy.jpg?raw=true"/>
+<img src="images/celebritygalaxy.jpg?raw=true"/>
 
 ---
 [Graffiti](/pdf/sample_presentation.pdf)
-<img src="images/graffiti.png?raw=true"/>
+<img src="images/graffiti .png?raw=true"/>
 
 ---
 [Galaxy Dog](http://example.com/)
