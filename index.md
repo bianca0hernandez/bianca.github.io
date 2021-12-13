@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### My Creative Works 
 
 [Ripped Effect](/sample_page)
 <img src="images/celebrity_galaxy.jpg?raw=true"/>
@@ -12,8 +12,8 @@
 <img src="images/graffiti.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Galaxy Dog](http://example.com/)
+<img src="images/galaxydog.jpg?raw=true"/>
 
 ---
 
