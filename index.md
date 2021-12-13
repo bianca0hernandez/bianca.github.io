@@ -5,7 +5,7 @@
 ### My Creative Works 
 
 [Ripped Effect](/sample_page)
-<img src="images/celebritygalaxy.jpg?raw=true"/>
+<img src="images/celebrity galaxy.jpg?raw=true"/>
 
 ---
 [Graffiti](/pdf/sample_presentation.pdf)
