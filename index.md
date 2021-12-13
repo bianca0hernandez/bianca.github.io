@@ -13,7 +13,7 @@
 
 ---
 [Galaxy Dog](http://example.com/)
-<img src="images/galaxydog.jpg?raw=true"/>
+<img src="images/doggalaxy.jpg?raw=true"/>
 
 ---
 
