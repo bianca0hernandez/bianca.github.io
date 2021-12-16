@@ -23,8 +23,8 @@
 <img src="images/dove-Cinematic Orange and Teal Color Grade.jpg?raw=true"/>
 - [Earth Day Poster](http://example.com/)
 <img src="images/earth day.jpg?raw=true"/>
-- [Portrait DOuble Blend Image](http://example.com/)
-<img src="images/portrait double blend image.jpg?raw=true"/>
+- [Portrait Double Blend Image](http://example.com/)
+<img src="images/portrait double blend image .jpg?raw=true"/>
 - [Retro Collage](http://example.com/)
 <img src="images/retro collage.jpg?raw=true"/>
 - [3D Pop Out Image](http://example.com/)
