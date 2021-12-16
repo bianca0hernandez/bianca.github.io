@@ -26,7 +26,7 @@
 - [Portrait Double Blend Image](http://example.com/)
 <img src="images/portrait double blend image .jpg?raw=true"/>
 - [Retro Collage](http://example.com/)
-<img src="images/retro collage.jpg?raw=true"/>
+<img src="images/retro collage .jpg?raw=true"/>
 - [3D Pop Out Image](http://example.com/)
 <img src="images/3D pop ou effect.jpg?raw=true"/>
 
