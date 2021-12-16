@@ -20,7 +20,7 @@
 ### Category Name 2
 
 - [Cinematic Teal and Orange](http://example.com/)
-<img src="images/dove-CinematicTealandOrangeColorGrade.jpg?raw=true"/>
+<img src="Users/biancahernandez/Downloads/dove-Cinematic%20Orange%20and%20Teal%20Color%20Grade.jpg"/>
 - [Earth Day Poster](http://example.com/)
 <img src="images/earth day.jpg?raw=true"/>
 - [Portrait DOuble Blend Image](http://example.com/)
