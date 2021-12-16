@@ -12,18 +12,23 @@
 <img src="images/graffiti .png?raw=true"/>
 
 ---
-[Galaxy Dog](http://example.com/)
+[Cat Galaxy](http://example.com/)
 <img src="images/doggalaxy.jpg?raw=true"/>
 
 ---
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Cinematic Teal and Orange](http://example.com/)
+<img src="images/dove-Cinematic Teal and Orange Color Grade.jpg?raw=true"/>
+- [Earth Day Poster](http://example.com/)
+<img src="images/earth day.jpg?raw=true"/>
+- [Portrait DOuble Blend Image](http://example.com/)
+<img src="images/portrait double blend image.jpg?raw=true"/>
+- [Retro Collage](http://example.com/)
+<img src="images/retro collage.jpg?raw=true"/>
+- [3D Pop Out Image](http://example.com/)
+<img src="images/3D pop ou effect.jpg?raw=true"/>
 
 ---
 
