@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Other works
 
 - [Cinematic Teal and Orange](http://example.com/)
 <img src="images/dove-Cinematic Orange and Teal Color Grade.jpg?raw=true"/>
@@ -27,7 +27,7 @@
 <img src="images/portrait double blend image .jpg?raw=true"/>
 - [Retro Collage](http://example.com/)
 <img src="images/retro collage .jpg?raw=true"/>
-- [3D Pop Ou Image](http://example.com/)
+- [3D Pop Out Image](http://example.com/)
 <img src="images/3D pop ou effect.jpg?raw=true"/>
 
 ---
